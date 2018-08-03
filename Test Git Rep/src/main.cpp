@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 void setup() {
-    // put your setup code here, to run once:
+    // Тестим работу с гит
 }
 
 void loop() {
