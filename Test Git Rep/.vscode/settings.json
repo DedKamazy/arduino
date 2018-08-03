@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/SOFRINO.2K/prog4/.platformio/penv/bin:/home/SOFRINO.2K/prog4/.platformio/penv:/home/SOFRINO.2K/prog4/bin:/home/SOFRINO.2K/prog4/.local/bin:/home/SOFRINO.2K/prog4/bin:/home/SOFRINO.2K/prog4/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
