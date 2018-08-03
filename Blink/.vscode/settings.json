@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/SOFRINO.2K/prog4/.platformio/penv/bin:/home/SOFRINO.2K/prog4/.platformio/penv:/app/bin:/usr/bin:/home/SOFRINO.2K/prog4/.var/app/com.visualstudio.code/data/node_modules/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
