@@ -9,7 +9,7 @@ TM1637 disp(3, 2);
 int data[4] = {1, 2, 3, 0};
 bool point = true;
 
-unsigned long timestat = 0; //Начало отсчета до смены секунды
+unsigned long timestat = 0; //*Начало отсчета до смены секунды
 unsigned long timesys = 0;  //Системное время
 int timespeed = 100;        //?Скорость смены секунды поменять на 1000
 bool runsys = true;
